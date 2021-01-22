@@ -1,4 +1,4 @@
-module github.com/go-co-op/gocron
+module github.com/sdw2330976/gocron
 
 go 1.13
 
